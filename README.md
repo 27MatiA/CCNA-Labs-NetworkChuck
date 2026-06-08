@@ -7,6 +7,8 @@ Asigné direccionamiento IPv4 estático (`192.168.1.0/24`) y validé la conectiv
 ### 📊 Evidencia de Conectividad (Prueba de Ping)
 ![Prueba de Ping Exitosa](Test.png)
 
+---
+
 ## 🛡️ Laboratorio 02: Hub vs. Switch (Análisis de Sniffing en Capa 2)
 
 ### 🎯 Objetivo:
